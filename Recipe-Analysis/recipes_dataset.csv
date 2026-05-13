@@ -1,0 +1,28 @@
+dishname,recipe_version,ingredients,cooking_time_min,difficulty,calories,user_reviews,taste_rating,health_rating,overall_rating
+Butter Chicken,A,"Chicken, Butter, Tomato, Cream, Spices",45,Medium,520,1245,4.8,3.9,4.5
+Butter Chicken,B,"Chicken, Yogurt, Tomato, Cream, Garlic",50,Medium,490,978,4.6,4.1,4.4
+Butter Chicken,C,"Chicken, Cashew Paste, Tomato, Butter",55,Hard,560,756,4.9,3.7,4.6
+Veg Fried Rice,A,"Rice, Carrot, Beans, Soy Sauce, Egg",25,Easy,320,654,4.3,4.2,4.3
+Veg Fried Rice,B,"Brown Rice, Peas, Corn, Soy Sauce",30,Easy,290,488,4.1,4.7,4.4
+Veg Fried Rice,C,"Rice, Paneer, Capsicum, Chili Sauce",35,Medium,370,590,4.5,4.0,4.3
+Paneer Tikka,A,"Paneer, Yogurt, Spices, Capsicum",40,Medium,410,720,4.7,4.4,4.6
+Paneer Tikka,B,"Paneer, Hung Curd, Mint, Onion",35,Easy,390,534,4.5,4.5,4.5
+Paneer Tikka,C,"Paneer, Cheese, Spices, Butter",45,Hard,470,621,4.8,3.8,4.4
+Chicken Biryani,A,"Rice, Chicken, Onion, Spices",70,Hard,650,2100,4.9,3.9,4.7
+Chicken Biryani,B,"Brown Rice, Chicken, Yogurt, Mint",65,Medium,590,1430,4.6,4.5,4.6
+Chicken Biryani,C,"Rice, Chicken, Ghee, Fried Onion",80,Hard,710,1875,5.0,3.5,4.6
+Caesar Salad,A,"Lettuce, Croutons, Chicken, Cheese",20,Easy,280,340,4.2,4.8,4.5
+Caesar Salad,B,"Lettuce, Tofu, Parmesan, Dressing",18,Easy,240,278,4.0,4.9,4.4
+Caesar Salad,C,"Lettuce, Bacon, Chicken, Mayo",25,Medium,360,412,4.5,4.0,4.3
+Masala Dosa,A,"Rice Batter, Potato, Onion, Spices",30,Medium,330,980,4.7,4.3,4.5
+Masala Dosa,B,"Ragi Batter, Potato, Carrot, Onion",35,Medium,290,610,4.3,4.8,4.5
+Masala Dosa,C,"Cheese, Potato, Batter, Butter",40,Hard,420,755,4.8,3.9,4.4
+Pasta Alfredo,A,"Pasta, Cream, Cheese, Garlic",25,Easy,540,860,4.6,3.5,4.1
+Pasta Alfredo,B,"Whole Wheat Pasta, Milk, Herbs",30,Medium,430,532,4.2,4.4,4.3
+Pasta Alfredo,C,"Pasta, Mushroom, Cream, Butter",35,Medium,510,688,4.7,3.8,4.2
+Grilled Salmon,A,"Salmon, Lemon, Garlic, Herbs",30,Medium,450,444,4.8,4.9,4.9
+Grilled Salmon,B,"Salmon, Olive Oil, Pepper, Lime",28,Easy,420,390,4.6,5.0,4.8
+Grilled Salmon,C,"Salmon, Butter Sauce, Herbs",35,Hard,500,310,4.9,4.3,4.7
+Chocolate Cake,A,"Flour, Cocoa, Sugar, Butter, Eggs",60,Medium,620,1750,4.9,2.8,4.0
+Chocolate Cake,B,"Whole Wheat Flour, Cocoa, Honey",55,Medium,510,920,4.5,3.9,4.2
+Chocolate Cake,C,"Dark Chocolate, Cream, Butter, Flour",70,Hard,690,1320,5.0,2.5,4.1
